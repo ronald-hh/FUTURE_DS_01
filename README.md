@@ -70,6 +70,10 @@ The project uses an online retail sales dataset containing information such as:
 - Country
 - Invoice date
 
+This project uses the **Online Retail Dataset**, which contains transactions from a UK-based online retail store.
+**Source:**  
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+
 ## Project Structure
 
 ```
